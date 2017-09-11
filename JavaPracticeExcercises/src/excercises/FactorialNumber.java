@@ -10,7 +10,7 @@ public class FactorialNumber {
 						
 		Scanner in = new Scanner(System.in);
 		System.out.println("Enter the Number to calculate factorial");
-		x=in.nextInt();*/
+		x=in.nextInt();..*/
 		Factorial(5);
 				
 	}
